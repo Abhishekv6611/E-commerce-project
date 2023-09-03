@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/E-commerce-project/static/css/main.5d5db75e.css",
+    "main.js": "/E-commerce-project/static/js/main.4ec82a08.js",
+    "static/media/banner-two.jpg": "/E-commerce-project/static/media/banner-two.207d3a7db4d6a4a61f4a.jpg",
+    "static/media/banner-three.jpg": "/E-commerce-project/static/media/banner-three.a12046c4c2489841e520.jpg",
+    "static/media/banner-one.jpg": "/E-commerce-project/static/media/banner-one.5d80dc1d465f154eb193.jpg",
+    "static/media/google-logo.png": "/E-commerce-project/static/media/google-logo.4acea2d5faf22fdc3994.png",
+    "static/media/sale.png": "/E-commerce-project/static/media/sale.05046947d0595a037f52.png",
+    "static/media/githublogo.png": "/E-commerce-project/static/media/githublogo.9f678d9ddefbc9771c3a.png",
+    "static/media/cart.png": "/E-commerce-project/static/media/cart.22bdf9adde1b112951f0.png",
+    "index.html": "/E-commerce-project/index.html",
+    "main.5d5db75e.css.map": "/E-commerce-project/static/css/main.5d5db75e.css.map",
+    "main.4ec82a08.js.map": "/E-commerce-project/static/js/main.4ec82a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5db75e.css",
+    "static/js/main.4ec82a08.js"
+  ]
+}
